@@ -1,2 +1,2 @@
-# titanic
-DataWrangling Exercise2
+# Titanic
+DataWrangling Exercise 2
