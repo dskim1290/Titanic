@@ -1,2 +1,2 @@
 # Titanic
-DataWrangling Exercise 2
+DataWrangling Project 2
